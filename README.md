@@ -22,4 +22,4 @@ Dashboard-style inventory analytics prototype focused on visibility and decision
 Python • SQL • Power BI • Streamlit • Git • Excel • Supply Chain Analytics
 
 ## Current focus
-Building agentic AI and decision-intelligence tools for supply chain applications.**
+Building agentic AI and decision-intelligence tools for supply chain applications.
